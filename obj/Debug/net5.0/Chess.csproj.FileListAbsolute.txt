@@ -1,0 +1,16 @@
+C:\Users\1\source\repos\Chess\Chess\bin\Debug\net5.0\Chess.exe
+C:\Users\1\source\repos\Chess\Chess\bin\Debug\net5.0\Chess.deps.json
+C:\Users\1\source\repos\Chess\Chess\bin\Debug\net5.0\Chess.runtimeconfig.json
+C:\Users\1\source\repos\Chess\Chess\bin\Debug\net5.0\Chess.runtimeconfig.dev.json
+C:\Users\1\source\repos\Chess\Chess\bin\Debug\net5.0\Chess.dll
+C:\Users\1\source\repos\Chess\Chess\bin\Debug\net5.0\ref\Chess.dll
+C:\Users\1\source\repos\Chess\Chess\bin\Debug\net5.0\Chess.pdb
+C:\Users\1\source\repos\Chess\Chess\obj\Debug\net5.0\Chess.csprojAssemblyReference.cache
+C:\Users\1\source\repos\Chess\Chess\obj\Debug\net5.0\Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Chess\Chess\obj\Debug\net5.0\Chess.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Chess\Chess\obj\Debug\net5.0\Chess.AssemblyInfo.cs
+C:\Users\1\source\repos\Chess\Chess\obj\Debug\net5.0\Chess.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Chess\Chess\obj\Debug\net5.0\Chess.dll
+C:\Users\1\source\repos\Chess\Chess\obj\Debug\net5.0\ref\Chess.dll
+C:\Users\1\source\repos\Chess\Chess\obj\Debug\net5.0\Chess.pdb
+C:\Users\1\source\repos\Chess\Chess\obj\Debug\net5.0\Chess.genruntimeconfig.cache
